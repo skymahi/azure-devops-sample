@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-devops-sample", "azure-devops-sample\azure-devops-sample.csproj", "{BB2CEC95-054D-49FA-9AB6-91B7806DC847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2CEC95-054D-49FA-9AB6-91B7806DC847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2CEC95-054D-49FA-9AB6-91B7806DC847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2CEC95-054D-49FA-9AB6-91B7806DC847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2CEC95-054D-49FA-9AB6-91B7806DC847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCFAB1FD-6873-4BFF-B1B5-741D63C05A01}
+	EndGlobalSection
+EndGlobal
